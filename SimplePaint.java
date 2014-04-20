@@ -5,6 +5,8 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
+
+
 /**
  * A simple applet where the user can sketch curves in a variety of
  * colors.  A color palette is shown along the right edge of the applet.
